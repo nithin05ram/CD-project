@@ -1,0 +1,5 @@
+{
+  "name": "NL-to-SQL Compiler",
+  "description": "An advanced natural language to SQL compiler that translates controlled English queries into SQL. It demonstrates compiler design principles including lexical, syntax, and semantic analysis, along with intermediate code generation and optimization, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
